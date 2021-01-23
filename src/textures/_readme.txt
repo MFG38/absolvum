@@ -46,11 +46,3 @@ __tri32:	Triangle pattern, 32x32px
 __vtrm8:	Vertical trim, 8px wide
 __vtrm16:	Vertical trim, 16px wide
 __vtrm32:	Vertical trim, 32px wide
-
-
-NOTE TO SELF: Additional textures still missing for the following colors:
-- Gray
-- Light green
-- Orange
-- Pink
-- Yellow
