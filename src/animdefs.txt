@@ -1,0 +1,12 @@
+warp2 texture BKSKY
+warp2 texture BLSKY
+warp2 texture CNSKY
+warp2 texture GRSKY
+warp2 texture GYSKY
+warp2 texture LGSKY
+warp2 texture ORSKY
+warp2 texture PKSKY
+warp2 texture PLSKY
+warp2 texture RDSKY
+warp2 texture WHSKY
+warp2 texture YLSKY

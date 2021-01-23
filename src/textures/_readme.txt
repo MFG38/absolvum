@@ -36,6 +36,7 @@ __glass:	"Noisy" glass
 __htrm8:	Horizontal trim, 8px wide
 __htrm16:	Horizontal trim, 16px wide
 __htrm32:	Horizontal trim, 32px wide
+__sky:		Sky texture, 512x512px
 __solid:	Solid color
 __tend8:	Trim ending/corner, 8x8px
 __tend16:	Trim ending/corner, 16x16px
@@ -45,3 +46,11 @@ __tri32:	Triangle pattern, 32x32px
 __vtrm8:	Vertical trim, 8px wide
 __vtrm16:	Vertical trim, 16px wide
 __vtrm32:	Vertical trim, 32px wide
+
+
+NOTE TO SELF: Additional textures still missing for the following colors:
+- Gray
+- Light green
+- Orange
+- Pink
+- Yellow
