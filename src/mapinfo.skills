@@ -1,0 +1,40 @@
+clearskills
+
+skill easy
+{
+	acsreturn = 1
+	name = "Casual"
+	spawnfilter = 8
+	damagefactor = 0.75
+	aggressiveness = 0.0
+	ammofactor = 1.5
+}
+
+skill normal
+{
+	defaultskill
+	acsreturn = 2
+	name = "Normal"
+	spawnfilter = 8
+	damagefactor = 1.0
+	aggressiveness = 0.2
+}
+
+skill hard
+{
+	acsreturn = 3
+	name = "Hard"
+	spawnfilter = 8
+	damagefactor = 1.5
+	aggressiveness = 0.6
+}
+
+skill insane
+{
+	acsreturn = 4
+	name = "Insane"
+	spawnfilter = 8
+	damagefactor = 2.0
+	aggressiveness = 1.0
+	fastmonsters
+}
